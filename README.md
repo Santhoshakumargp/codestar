@@ -44,7 +44,7 @@ to the Amazon EC2 instance. (You can watch the progress on your project dashboar
 Once you've seen how that works, start developing your own code, and have fun!
 
 Learn more about AWS CodeStar by reading the user guide.  Ask questions or make
-suggestions on our forum.
+suggestions on our forum ..
 
 User Guide: http://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 
